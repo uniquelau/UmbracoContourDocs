@@ -4,4 +4,4 @@ These developer documents covers working with Umbraco Contour from a developer s
 
 ##Working with Contour data in XSLT
 ##Working with Contour data in Razor##
-##[Extending Contour](Extending Contour/index.md)##
+##[Extending Contour](UmbracoContourDocs/Extending Contour/index.md)##
