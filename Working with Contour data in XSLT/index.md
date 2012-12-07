@@ -39,6 +39,28 @@ All record nodes are contained in a <uformrecords> element. All records consist 
 The naming of the child elements inside the <fields> element are named accordingly to the caption of the field converted to lower case and with all foreign characters removed.
 
 The element contains a <values> element which contains all entered values in individual <value> elements. A field can have multiple values, a checkboxlist for instance can save multiple values.
+
+##Umbraco Contour Library methods
+Umbraco Contour includes a libary for easy access to record data in the xml format. The library is located in the class Umbraco.Forms.Library
+
+###GetApprovedRecordsFromPage
+	XPathNodeIterator GetApprovedRecordsFromPage(int pageId)
+Returns All records with the state set to approved from all forms on the umbraco page with the id = pageId as a XPathNodeIterator
+###GetApprovedRecordsFromFormOnPage
+	XPathNodeIterator GetApprovedRecordsFromFormOnPage(int pageId, string formId)
+Returns All records with the state set to approved from the form with the id = formId on the umbraco page with the id = pageId as a XPathNodeIterator
+###GetRecordsFromPage
+	XPathNodeIterator GetRecordsFromPage(int pageId)
+Returns All records from all forms on the umbraco page with the id = pageId as a XPathNodeIterator
+###GetRecordsFromFormOnPage
+	XPathNodeIterator GetRecordsFromFormOnPage(int pageId, string formId)
+Returns All records from the form with the id = formId on the umbraco page with the id = pageId as a XPathNodeIterator
+###GetRecordsFromForm
+	XPathNodeIterator GetRecordsFromForm(string formId)
+Returns All records from the form with the ID = formId as a XPathNodeIterator
+###GetRecords
+	XPathNodeIterator GetRecord(string recordId)
+Returns the specific record with the ID = recordId as a XPathNodeIterator
 ##Sample XPath statements
 These samples are provided as an introduction to working with Contour xml data. It does however follow the XPath standard and the above xml format can work with any valid XPath. The below snippets needs the standard umbraco xslt file to work, so simply create a new xslt file and insert the snippets on that file.
 ###Get all records form the current page
