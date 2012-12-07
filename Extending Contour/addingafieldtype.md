@@ -1,6 +1,6 @@
 # Adding a field type to Umbraco Contour #
 
-*This builds on the "adding a type to the provider model" chapter*
+*This builds on the "[adding a type to the provider model](addingatype.md)" chapter*
 
 Add a new class to the visual studio solution and make it inherit from Umbraco.Forms.Core.FieldType and override the Editor property.
 
