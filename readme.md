@@ -8,5 +8,7 @@ See how you can fetch and display Contour record data from your xslt macros
 See how you can fetch and display Contour record data from your razor macros
 ##[Designing forms in Visual Studio (code first)](Code First/index.md)
 Developers love to code,they can build contour forms without ever touching the UI. With Contour's code first features developers can build, test and source control forms
+##Custom markup
+Write your forms your way. Since contour 3 you have full control over your form's HTML markup and styling
 ##[Extending Contour](Extending Contour/index.md)##
 Learn how you can extend Contour with your own custom providers
