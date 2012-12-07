@@ -11,7 +11,7 @@ A field type handles rendering of the UI for a field in a form. It renders a sta
 A data source type enables Contour to connect to a custom source of data. A datasource can consist of any kind of storage as long as it possible to return a list of fields Contour can map values to. For exemple: a Database data source can return a list of columns Contour can send data to, which enables Contour to map a form to a data source. A data source type is responsible for connecting
 ### Prevalue Source Types ###
 A prevalue source type can connect to a 3rd party storage and retrieve a collection of values which can be used on fields which support prevalues. The prevalue source is responsible for connecting to the source and retrieving the collection of values. A prevalue sourc e type can also implement edit capabilities so new items can be added/updated/deleted directly from the form editor.
-### Workflow Types ###
+### [Workflow Types](addingaworkflowtype.md) ###
 A workflow can be executed each time a form changes state (when it is submitted for instance). A workflow is responsible for executing simple logic which can modify the record or notify 3rd party systems.
 ### Export Types ###
 Export types are responsible for turning form records (which are xml) into any other data format, which is then returned as a file.
