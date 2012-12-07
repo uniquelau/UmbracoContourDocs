@@ -37,3 +37,6 @@ Then we will start building the editor and the values it returns
 		} 
 	}
 The editor simply takes care of generating the UI control and setting its value. The List&lt;object> is what is later returned by the field type.
+
+## Complete example with sourcecode
+A complete example of a custom fieldtype can be found on [nibble.be](http://www.nibble.be/?p=89).
