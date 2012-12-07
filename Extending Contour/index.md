@@ -19,3 +19,11 @@ Export types are responsible for turning form records (which are xml) into any o
 A Record action is an action that can be executed against a single record (like deleting a record, editing a record). These actions are available on the record viewer of each form.
 ### Recordset Action Types ###
 A Recordset Action is an action that can be executed against a variable number of records. These actions are available in the record viewer of each form after selecting a number of records.
+###Complete examples available
+The [sourcecode](http://our.umbraco.org/projects/developer-tools/umbraco-contour-shared-source) for the default providers is available for download and shows you how our default components are build.
+
+There are also several community addons that can be used for inspiration when extending Contour
+
+* [Contour contrib](http://our.umbraco.org/projects/developer-tools/contour-contrib)
+* [Contour strikes again](http://contourstrikesagain.codeplex.com/)
+
