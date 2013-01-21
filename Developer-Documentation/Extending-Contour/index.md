@@ -27,3 +27,6 @@ There are also several community addons that can be used for inspiration when ex
 * [Contour contrib](http://our.umbraco.org/projects/developer-tools/contour-contrib)
 * [Contour strikes again](http://contourstrikesagain.codeplex.com/)
 
+##[Adding a form template](Adding-a-Form-Template.md) ##
+Learn how to extend the create dialog with new form templates
+
