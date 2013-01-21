@@ -1,5 +1,5 @@
 # Contour Documentation #
-Documents how to work with [Umbraco Contour](http://umbraco.com/products/more-add-ons/contour.aspx) (HQ's official form builder) from both an editor and developer standpoint (these docs are work in progress so expect regular updates :) )
+Documents how to work with [Umbraco Contour](http://umbraco.com/products/more-add-ons/contour.aspx) (HQ's official form builder) from both an editor and developer standpoint (these docs are **work in progress** so expect regular updates :) )
 ##[For editors](Editor/index.md)
 Documents how to interact with the interface and build forms in a couple of clicks 
 
