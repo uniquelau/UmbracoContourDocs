@@ -3,7 +3,7 @@ Developer documents covers working with Umbraco Contour from a developer standpo
 
 ##[Working with Contour data in XSLT](Working-with-Contour-data-in-XSLT/index.md)
 See how you can fetch and display Contour record data from your xslt macros
-###Working with Contour data in Razor
+##Working with Contour data in Razor
 See how you can fetch and display Contour record data from your razor macros
 ##[Designing forms in Visual Studio (code first)](Code-first/index.md)
 Developers love to code,they can build contour forms without ever touching the UI. With Contour's code first features you can build, test and source control forms
