@@ -5,7 +5,7 @@ Documents how to use the different parts of the Contour interface from an editor
 Create new forms and add them to your Umbraco site in minutes.
 ###[Form settings](Creating-a-form/Form-Settings/index.md)
 A look at the settings tab of the form designer
-###Overview of the default fieldtypes
+###[Overview of the default fieldtypes](Creating-a-form/Fieldtypes/index.md)
 Complete overview of all the default fieldtypes and how to use them
 ###[Setting up conditional logic on fields](Creating-a-form/Conditional-Logic/index.md)
 Show field X if value of field Y is... 
