@@ -17,6 +17,7 @@ The option to set a form to manual approval, by default a form record will be pl
 ##Styling
 ![Form settings stylesheet](FormSettingsStylesheet.png)
 ###Disable default stylesheet
+More site design orientated (so probably for the developer) but enabling this option will prevent a default stylesheet being added to the pages where the Contour form is placed.
 
 ##Field indicators
 ![Form settings field indicators](FormSettingsFieldIndicators.png)
@@ -31,9 +32,12 @@ The option to set a form to manual approval, by default a form record will be pl
 ###Hide field validation labels
 
 ##Submitting the form
+What happens when the form has been submitted, there are 2 options that can be setup.
 ![Form settings submitting the form](FormSettingsSubmitting.png)
 ###Message on submit
+Display some text (staying on the same page)
 ###Send to page
+Selecting a page where the user will be redirected after submitting the form
 
 ##Setting current settings as default
 
