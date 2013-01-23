@@ -3,7 +3,7 @@ Documents how to interact with the Contour interface and build forms in a couple
 
 ##[Creating a form, the basics](Creating-a-form/index.md)
 Create new forms and add them to your Umbraco site in minutes.
-###Form settings
+###[Form settings](Creating-a-form/Form-Settings/index.md)
 A look at the settings tab of the form designer
 ###Overview of the default fieldtypes
 Complete overview of all the default fieldtypes and how to use them
