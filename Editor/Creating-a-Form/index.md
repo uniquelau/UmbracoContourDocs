@@ -26,6 +26,68 @@ The next screen you should see after hitting the create button is the form desig
 
 There is already a page and a fieldset available the rest of the form has to be added using the UI(unless you started from a template then you alreayd get some fields).
 
+##Setting the page title
+
+The page title can be placed in edit mode by simply clicking it.
+
+![Contour page title edit](ContourFormDesignerPageTitleEdit.png)
+
+##Setting the fieldset legend
+
+The same applies for the fieldset legend, clicking it will place it in edit mode.
+
+![Contour fieldset legend edit](ContourFormDesignerFieldsetLegendEdit.png)
+
+##Adding fields
+
+To add a new field hit the add field button in the fieldset where you wish to add the extra field.
+
+![Contour add field](ContourFormDesignerAddFieldpng.png)
+
+That should display the following form
+
+![Contour add field form](ContourFormDesignerAddField.png)
+
+Where you'll need to supply a caption for the new field (will be used on the field) and choose the type. By default the type is set to textfield but other options are available.
+
+- Checkbox
+- Checkboxlist
+- Datepicker
+- Dropdownlist
+- File upload
+- Hidden field
+- Password field
+- Radiobuttonlist
+- Recaptcha (from v3.0.7)
+- Textarea
+- Textfield
+
+Caption and type are the only 2 mandatory fields you need to provide for adding a new field to your form. Once those are supplied the field can be added.
+
+![Contour add field form](ContourFormDesignerAddFieldAdd.png)
+
+It's also possible to provide additional settings (these will be dependant on the chosen fieldtype, to show the extra settings hit the additional settings link.
+
+![Contour add field form](ContourFormDesignerAddFieldAdditionalSettings.png)
+
+The add field form should now expand with the additional settings
+
+![Contour add field form](ContourFormDesignerAddFieldAdditionalSettingsView.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
