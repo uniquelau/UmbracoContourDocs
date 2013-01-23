@@ -1,5 +1,5 @@
 #Creating a form
-This will show the basic steps of creating forms in Contour. 
+This will show the basic steps of creating forms in Contour and adding them to your Umbraco site. 
 ##Navigate to the Contour section
 Managing forms happens in the Contour section of the Umbraco backoffice so first navigate to this section by selecting it (you'll need to have Contour installed and have access to this section in order to see it).
 
