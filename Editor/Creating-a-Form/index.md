@@ -77,18 +77,18 @@ Once the field has been added the create field form should disapear and you get 
 
 You can then repeat this step untill you end up with the form you desire.
 
-#Saving the form
+##Saving the form
 Once you are satisfied with the form you can save the design by hitting the save button in the toolbar
 
 ![Contour save form](ContourFormDesignerSave.png)
 
-#Previewing and testing the form
+##Previewing and testing the form
 If you wish the test the form you just created just hit the preview button in the toolbar and you will be taken to a fully functional preview of your form.
 
 
 ![Contour preview form](ContourFormDesignerPreview.png)
 
-#Adding the form to the Umbraco site
+##Adding the form to the Umbraco site
 
 
 
