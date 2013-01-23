@@ -20,16 +20,24 @@ The option to set a form to manual approval, by default a form record will be pl
 More site design orientated (so probably for the developer) but enabling this option will prevent a default stylesheet being added to the pages where the Contour form is placed.
 
 ##Field indicators
+Should mandatory fields by marked with a certain indicator
 ![Form settings field indicators](FormSettingsFieldIndicators.png)
 ###Mark fields
+You can choose to not mark any fields or only mark mandatory or optional fields.
 ###Indicator
+The indicator that will be used, a typical indicator is just a *
 
 ##Validation
+What should be displayed when a field is mandatory and a value isn't supplied or the value isn't valid.
 ![Form settings validation](FormSettingsValidation.png)
 ###Required error message
+The error message that will be displayed for a field if a field is mandatory but a value isn't provided. This setting can be overwritten on a field level. {0} will be replaced with the field caption.
 ###Invalid error message
+The error message that will be displayed for a field if a field isn't valid (a regular expression has been setup but the input doesn't match). This setting can be overwritten on a field level. {0} will be replaced with the field caption.
 ###Show validation summary
+Enable this option If you wish to display a summary of all error messages on top of the form.
 ###Hide field validation labels
+Enable this option if you wish the hide idividual field error messages from being displayed.
 
 ##Submitting the form
 What happens when the form has been submitted, there are 2 options that can be setup.
