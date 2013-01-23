@@ -9,7 +9,7 @@ Next similar to most create actions in the Umbraco backoffice you'll have to rig
 
 ![Contour tree](ContourFormsTree.png)
 
-##Naming the form
+##Name the form
 After selecting create you should see the following dialog
 
 ![Contour create dialog](ContourCreateDialog.png)
@@ -18,7 +18,7 @@ Where you'll need to supply a name for the form and have the option to start fro
 
 Hitting create will obviously create your new form.
 
-##Designing the form
+##Design the form
 
 The next screen you should see after hitting the create button is the form designer
 
