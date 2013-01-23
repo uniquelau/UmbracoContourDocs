@@ -82,6 +82,16 @@ Once you are satisfied with the form you can save the design by hitting the save
 
 ![Contour save form](ContourFormDesignerSave.png)
 
+#Previewing and testing the form
+If you wish the test the form you just created just hit the preview button in the toolbar and you will be taken to a fully functional preview of your form.
+
+
+![Contour preview form](ContourFormDesignerPreview.png)
+
+#Adding the form to the Umbraco site
+
+
+
 
 
 
