@@ -83,12 +83,40 @@ Once you are satisfied with the form you can save the design by hitting the save
 ![Contour save form](ContourFormDesignerSave.png)
 
 ##Previewing and testing the form
-If you wish the test the form you just created just hit the preview button in the toolbar and you will be taken to a fully functional preview of your form.
-
+If you wish the test the form you just created just hit the preview button in the toolbar and you will be taken to a fully functional preview of your form (changes must be saved before they can be previewed).
 
 ![Contour preview form](ContourFormDesignerPreview.png)
 
 ##Adding the form to the Umbraco site
+
+###Select page
+
+Navigate to the content section and select the content page where you want to insert the form (this page should have an RTE field)
+
+![Contour content page](ContentPage.png)
+
+###Add Contour macro
+
+Hit the add macro button in the toolbar
+
+![Contour content page add macro](ContentPageMacroButton.png)
+
+Select the insert form from Umbraco contour macro
+
+![Contour content page add macro](ContentPageAddMacroDialog.png)
+
+Select the form you want to insert and hit Ok
+
+![Contour content page add form](ContentPageAddMacroDialogChooseForm.png)
+
+The form should be inserted now and all that's needed to put it on your site is a save and publish of the content page!
+
+
+
+
+
+
+
 
 
 
