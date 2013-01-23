@@ -15,20 +15,23 @@ The id of the form, this is a readonly value that might be usefull to the develo
 The option to set a form to manual approval, by default a form record will be placed in the approved state after it has been submitted. If you wish to leave it in the submitted state and manually place it in the approves state then check this option (might be usefull if there are workflows that happen on approval).
 
 ##Styling
-
+![Form settings stylesheet](FormSettingsStylesheet.png)
 ###Disable default stylesheet
 
 ##Field indicators
+![Form settings field indicators](FormSettingsFieldIndicators.png)
 ###Mark fields
 ###Indicator
 
 ##Validation
+![Form settings validation](FormSettingsValidation.png)
 ###Required error message
 ###Invalid error message
 ###Show validation summary
 ###Hide field validation labels
 
 ##Submitting the form
+![Form settings submitting the form](FormSettingsSubmitting.png)
 ###Message on submit
 ###Send to page
 
