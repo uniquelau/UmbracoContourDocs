@@ -1,4 +1,5 @@
 #Creating a form
+This will show the basic steps of creating forms in Contour. 
 ##Navigate to the Contour section
 Managing forms happens in the Contour section of the Umbraco backoffice so first navigate to this section by selecting it (you'll need to have Contour installed and have access to this section in order to see it).
 
@@ -68,11 +69,21 @@ Caption and type are the only 2 mandatory fields you need to provide for adding 
 
 It's also possible to provide additional settings (these will be dependant on the chosen fieldtype, to show the extra settings hit the additional settings link.
 
-![Contour add field form](ContourFormDesignerAddFieldAdditionalSettings.png)
+![Contour additional settings](ContourFormDesignerAddFieldAdditionalSettings.png)
 
-The add field form should now expand with the additional settings
+Once the field has been added the create field form should disapear and you get a preview of your new field in the form designer.
 
-![Contour add field form](ContourFormDesignerAddFieldAdditionalSettingsView.png)
+![Contour new field added](ContourFormDesignerFieldAdded.png)
+
+You can then repeat this step untill you end up with the form you desire.
+
+#Saving the form
+Once you are satisfied with the form you can save the design by hitting the save button in the toolbar
+
+![Contour save form](ContourFormDesignerSave.png)
+
+
+
 
 
 
