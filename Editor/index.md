@@ -1,5 +1,5 @@
 #Editor documentation
-Documents how to interact with the Contour interface and build forms in a couple of clicks
+Documents how to use the different parts of the Contour interface from an editors standpoint. 
 
 ##[Creating a form, the basics](Creating-a-form/index.md)
 Create new forms and add them to your Umbraco site in minutes.
@@ -10,7 +10,12 @@ Complete overview of all the default fieldtypes and how to use them
 ###Setting up conditional logic on fields
 Show field X if value of field Y is... 
 ##[Attaching workflows](Attaching-Workflows/index.md)
+Extend the functionaly of your forms by adding workflows
 ##[Viewing and exporting entries](Viewing-and-Exporting-Entries/index.md)
+Manage and export your data
 ##[Defining and attaching prevalue sources](Defining-and-Attaching-Prevaluesources/index.md)
+Create re-usable prevalue sources that can be linked to list fields
 ##[Creating forms based on data sources](Creating-Forms-Based-on-Datasources/index.md)
+Create a form based on and submit back to a third party data source
 ##[Setting up user security](Setting-Up-User-Security/index.md)
+Limit user access by fine tuning form security
