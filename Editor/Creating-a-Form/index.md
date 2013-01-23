@@ -27,19 +27,19 @@ The next screen you should see after hitting the create button is the form desig
 
 There is already a page and a fieldset available the rest of the form has to be added using the UI(unless you started from a template then you alreayd get some fields).
 
-##Setting the page title
+###Setting the page title
 
 The page title can be placed in edit mode by simply clicking it.
 
 ![Contour page title edit](ContourFormDesignerPageTitleEdit.png)
 
-##Setting the fieldset legend
+###Setting the fieldset legend
 
 The same applies for the fieldset legend, clicking it will place it in edit mode.
 
 ![Contour fieldset legend edit](ContourFormDesignerFieldsetLegendEdit.png)
 
-##Adding fields
+###Adding fields
 
 To add a new field hit the add field button in the fieldset where you wish to add the extra field.
 
