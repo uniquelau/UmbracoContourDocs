@@ -20,7 +20,8 @@ The option to set a form to manual approval, by default a form record will be pl
 More site design orientated (so probably for the developer) but enabling this option will prevent a default stylesheet being added to the pages where the Contour form is placed.
 
 ##Field indicators
-Should mandatory fields by marked with a certain indicator
+Should mandatory fields or optional fields be marked with a certain indicator?
+
 ![Form settings field indicators](FormSettingsFieldIndicators.png)
 ###Mark fields
 You can choose to not mark any fields or only mark mandatory or optional fields.
