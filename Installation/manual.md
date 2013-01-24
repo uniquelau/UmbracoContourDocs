@@ -105,8 +105,23 @@ Add the below xml to the XsltExtensions element:
 	<ext assembly="/bin/Umbraco.Forms.Core" type="Umbraco.Forms.Library" alias="umbraco.contour">
 
 
+##Adding the macros
+There should be 2 macros (1 webforms version using a usercontrol and 1 mvc version using a razor script)
 
+###Usercontrol macro
+Called 'Insert form from Umbraco Contour (Usercontrol)' with the alias  'umbracoContour.RenderForm'. Set to allow and render in the RTE.
 
+![Usercontrol macro](ContourUsercontrolMacro.png)
+
+###Razor script macro
+Called 'Insert form from Umbraco Contour (Razor)' with the alias 'umbracoContour.RazorRenderForm'. Set to allow and render in the RTE.
+
+![Razor macro](ContourRazorScriptMacro.png)
+
+###Parameter
+Both macros should have a single parameter with the name 'Choose a form' and alias 'FormGuid' of the type 'FormPicker'
+ 
+![Macro parameter](ContourMacroParameter.png)
 
 
 
