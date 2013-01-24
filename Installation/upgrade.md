@@ -10,6 +10,9 @@ The latest stable version of Contour can always be found on the [project page](h
 ##Extract the archive 
 The downloaded archive contains all the files needed to perform an update, it isn't a package but a zip file with the new files. These new files need to be xcopied over the existing ones...
 
+##Run the upgrade wizard
+This only applies when moving from a 1.x version to a 3.x version. Since there are some db changes between these you'll need to update the database by requesting the following page mysite.com/umbraco/plugins/umbracocontour/upgrade.aspx 
+
 ##Clear browser cache
 To make sure you are running the latest version of the javascript files make sure to clear your browser chache after performing an upgrade
 
