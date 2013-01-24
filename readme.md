@@ -10,7 +10,8 @@ If package installation is not an option and you want to perform the installatio
 ###[Trouble shooting installation](Installation/troubleshoot.md)
 Did the installation encounter errors, this document will list the common errors and how to fix them
 
-
+###[Upgrading to a new version](Installation/upgrade.md)
+Simple upgrade instructions
 
 ##[For editors](Editor/index.md)
 Documents how to interact with the interface and build forms in a couple of clicks 
