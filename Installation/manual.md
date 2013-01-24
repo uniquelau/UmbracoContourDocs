@@ -35,12 +35,12 @@ access, as it creates new tables.
 
 ###SQLExpress
 
-Create script for SQLExpress is available [here](resources/createsqlexpress.txt)
+Create script for SQLExpress is available [here](resources/createsqlexpress.md)
 
 ###MySQL
 
 
-Create script for MySQL is available [here](resources/createmysql.txt)
+Create script for MySQL is available [here](resources/createmysql.md)
 
 ##Adding configuration to ui.xml
 
