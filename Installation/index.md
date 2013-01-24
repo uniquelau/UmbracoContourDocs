@@ -42,6 +42,7 @@ Once the installation has completed you should see an overview of the different 
 
 ![Contour install package](DeveloperSectionPackageRepoContourInstallPackageStatus.png)
 
+If there where errors during installation you should see them here (more details on how to troubleshoot these can be found [here](troubleshoot.md)).
 
 ##Start using Contour
 
