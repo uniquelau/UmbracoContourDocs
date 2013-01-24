@@ -45,7 +45,7 @@ Once the installation has completed you should see an overview of the different 
 
 ##Start using Contour
 
-Hitting the 'Open Umbraco Contour' button will move you to the new section and you should be ready to start designing forms. Notice that there is a new icon in the Sections part of the backoffice.
+Hitting the 'Open Umbraco Contour' button will move you to the new section and you should be ready to [start designing forms](../Editor/Creating-a-Form/index.md). Notice that there is a new icon in the Sections part of the backoffice.
 
 ![Contour install package](DeveloperSectionPackageRepoContourInstallPackageComplete.png)
 
