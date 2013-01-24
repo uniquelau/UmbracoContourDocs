@@ -1,7 +1,7 @@
 # Contour Documentation #
 Documents how to work with [Umbraco Contour](http://umbraco.com/products/more-add-ons/contour.aspx) (HQ's official form builder) from both an editor and developer standpoint (these docs are **work in progress** so expect regular updates :) )
 
-##[#Installation and upgrading](Installation/index.md)
+##[Installation and upgrading](Installation/index.md)
 Extending Umbraco with the Contour section and keeping it up to date
 
 ##[For editors](Editor/index.md)
