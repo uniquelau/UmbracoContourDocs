@@ -25,7 +25,7 @@ To install the database we need to execute a sql script against the database umb
 Contour currently supports SQL server (from version 2005), SQLExpress and MySQL.
 
 ###SQL server
-- Download the [create script](resources/createsqlserver.txt)
+- Download the [create script](resources/createsqlserver.md)
 - Open Microsoft Sql Server Management Studio and connect to your database.
 - Right click your umbraco database and choose "new query"
 - Copy the contents of the createSQLServer.txt to the query window
