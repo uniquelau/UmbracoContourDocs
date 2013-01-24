@@ -1,17 +1,8 @@
 # Contour Documentation #
 Documents how to work with [Umbraco Contour](http://umbraco.com/products/more-add-ons/contour.aspx) (HQ's official form builder) from both an editor and developer standpoint (these docs are **work in progress** so expect regular updates :) )
 
-##[Installation](Installation/index.md)
-Extend Umbraco with the Contour form builder section in a few steps 
-
-###[Manual installation](Installation/manual.md)
-If package installation is not an option and you want to perform the installation manually 
-
-###[Trouble shooting installation](Installation/troubleshoot.md)
-Did the installation encounter errors, this document will list the common errors and how to fix them
-
-###[Upgrading to a new version](Installation/upgrade.md)
-Simple upgrade instructions
+##[#Installation and upgrading](Installation/index.md)
+Extending Umbraco with the Contour section and keeping it up to date
 
 ##[For editors](Editor/index.md)
 Documents how to interact with the interface and build forms in a couple of clicks 
