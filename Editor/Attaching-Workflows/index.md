@@ -33,7 +33,7 @@ A new modal window should open
 
 ###Select the type 
 
-A new workflow can be of different types (an overview can be found below). SO first select the type 
+A new workflow can be of different types (an overview can be found [below](#Overviewofthedefaultworkflowtypes)). SO first select the type 
 
 ![Workflow add select type](WorkflowsPageAddSelectType.png)
 
