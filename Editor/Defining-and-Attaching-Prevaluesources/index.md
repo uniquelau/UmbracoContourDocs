@@ -1,6 +1,22 @@
 #Defining and attaching prevaluesources
 Prevalue sources can be hooked to fields that use a list fieldtype (radiobuttonlist, checkboxlist, dropdownlist). Making it possible to retrieve a list of items from a certain source.
 
+##Setting up a prevalue sources
+Prevalue sources can be managed in the corresponding part of the Contour section
+
+###Create new prevalue source
+
+###Choose type
+First you'll need to select the type of prevalue source you'll want to use, an overview of the different default types can be found [below](#)
+
+###Fill in settings
+Depending on the type you'll need to provide some additional settings
+
+###Watch preview of the values
+If the settings are succesfully validated and they return results you should get an overview of the values.
+
+##Attaching a prevalue source to a field
+
 ##Overview of the default prevalue source types
 There are a couple of default prevalue source types that can be used, here is an overview:
 
