@@ -1,4 +1,4 @@
-##Create tables script for SQLExpress
+##Create tables script for SQL CE
 
 	INSERT INTO [cmsMacroPropertyType]
 	           ([macroPropertyTypeAlias]
