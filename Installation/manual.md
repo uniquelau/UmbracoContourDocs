@@ -102,7 +102,7 @@ To work with the xslt methods in the xslt editor, you need to add a reference to
 This is done in /config/xsltExtensions.config
 Add the below xml to the XsltExtensions element:
 
-	<ext assembly="/bin/Umbraco.Forms.Core" type="Umbraco.Forms.Library" alias="umbraco.contour">
+	<ext assembly="Umbraco.Forms.Core" type="Umbraco.Forms.Library" alias="umbraco.contour" />
 
 
 ##Adding the macros
